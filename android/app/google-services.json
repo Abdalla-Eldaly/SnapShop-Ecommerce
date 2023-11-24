@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "993617293473",
+    "project_id": "snapshop-2875a",
+    "storage_bucket": "snapshop-2875a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993617293473:android:e7912e52f36ef6204700e0",
+        "android_client_info": {
+          "package_name": "com.example.snapshopecommerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDANj6Pq7kF_pUOKXJAudHR-GzggNNoFJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

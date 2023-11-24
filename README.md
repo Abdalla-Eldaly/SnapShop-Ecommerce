@@ -1,4 +1,4 @@
-# ecommerce_c8_online
+# snapshopecommerce
 
 A new Flutter project.
 
